@@ -29,4 +29,4 @@ def q2_contar_frequencia_palavra(text):
 
     return dictionary
 
-print(q2_contar_frequencia_palavra("lucas Hello world hello lucas lucas lucas"))
+print(q2_contar_frequencia_palavra("Hello world hello"))
