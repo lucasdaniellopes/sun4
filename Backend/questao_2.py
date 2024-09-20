@@ -1,4 +1,3 @@
-from collections import Counter
 def q2_contar_frequencia_palavra(text):
     """Realiza uma contagem de quantas vezes uma determinada palavra ocorre
     Ao final, preferencialmente, ordenar o dicionário pelo volume de ocorrência
